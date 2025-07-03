@@ -4,11 +4,11 @@ const { json } = require('micro');
 const { URL } = require('url');
 
 const SOCIAL_LINKS = {
-  developer: "@Kaiiddo on Telegram",
-  youtube: "@Kaiiddo",
-  twitter: "@HelloKaiiddo",
-  github: "ProKaiiddo",
-  bsky: "kaiiddo.bsky.social"
+  developer: "@InayatGaming on Telegram",
+  youtube: "@InayatGaming",
+  twitter: "@InayatGaming",
+  github: "InayatGaming",
+  bsky: "InayatGaming"
 };
 
 const addSocialLinks = (response) => ({
